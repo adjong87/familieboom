@@ -7,7 +7,9 @@ Iedere applicatie die we maken, willen we opleveren inclusief testen. Omdat dit 
 ## Java
 
 We gaan een applicatie maken om een familie boom te maken. Iedereen heeft familie, van sommige houden we heel veel en van sommige misschien wat minder. Maar hoe dan ook hebben we allemaal familie.
-Voor deze applicatie hoeven we niet allerlei moeilijke opties toe te voegen. 
+Voor deze applicatie hoeven we niet allerlei moeilijke opties toe te voegen.
+
+![Family!](./assets/Family.JPG)
 
 ## Opdracht voorwaarden
 

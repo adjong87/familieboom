@@ -7,6 +7,7 @@ Iedere applicatie die we maken, willen we opleveren inclusief testen. Dit is bel
 ## Opdrachtbeschrijving
 We gaan een applicatie maken om een familie stamboom te maken. Iedereen heeft familieleden: van sommige houden we heel veel en van sommige misschien wat minder. Maar hoe dan ook hebben we allemaal familie.
 Voor deze applicatie hoeven we niet allerlei moeilijke opties toe te voegen.
+Om te beginnen is het de bedoeling dat we straks een nieuwe `Person` of een nieuwe `Pet` kunnen toevoegen, aan onze familie boom. Deze bevat applicatie bevat een methode om een persoon kinderen te geven, dan is het natuurlijk wel netjes om gelijk deze persoon neer te zetten als vader of moeder. Zo zijn er nog meer familie gerelateerde methodes nodig binnen deze applicaitie. 
 
 ![Family!](./assets/Family.JPG)
 
